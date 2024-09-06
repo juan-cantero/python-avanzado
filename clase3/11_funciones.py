@@ -1,4 +1,4 @@
-def saludar(saludo):  # parámetro
+def saludar(saludo) ->None:   # parámetro
     print(saludo)
 
 

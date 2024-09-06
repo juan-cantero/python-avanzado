@@ -1,0 +1,29 @@
+{
+    "articulos": {
+        "1": {
+            "nombre": "Teclado",
+            "precio": 100.0,
+            "disponible": true
+        },
+        "2": {
+            "nombre": "Mouse",
+            "precio": 50.0,
+            "disponible": true
+        },
+        "3": {
+            "nombre": "Monitor",
+            "precio": 200.0,
+            "disponible": false
+        }
+    },
+    "proveedores": {
+        "1": {
+            "nombre": "Proveedor1",
+            "telefono": "1234567890"
+        },
+        "2": {
+            "nombre": "Proveedor2",
+            "telefono": null
+        }
+    }
+}
