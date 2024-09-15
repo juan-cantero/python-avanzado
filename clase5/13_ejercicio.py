@@ -11,7 +11,7 @@ Crear una variable de clase que consista en una lista de instancias de la misma 
 (dentro del método constructor llamar a la variable de clase 
 y con append agregar el mismo objeto: self)
 """
-from typing import Self
+from typing import Self # type: ignore
 
 class Usuario:
 
